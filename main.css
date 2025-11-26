@@ -52,11 +52,6 @@ body {
     /* max-width: 120%; */
 }
 
-#drag-container img[src*="r9.png"] {
-    object-fit: contain;
-    width: 86px;
-    height: 124px;
-}
     /* max-height: 120%; */
     line-height: 200px;
     font-size: 50px;
